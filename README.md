@@ -4,12 +4,19 @@
 
 
 补充
-旧版 物质波论文 v1 v2 v3 存放在 OSF的预印本伺服器 
+
+旧版 物质波论文 v1 v2 v3 存放在 OSF的预印本伺服器
+
 https://doi.org/10.31219/osf.io/6vn97_v3
 
+
 因 OSF 的预印本伺服器 出现异常
+
 所以我们将新版论文存放在 github
+
 透过 zenodo.org 提供 DOI号码 与 下载网址
 
+
 物质波论文 v4
+
 https://doi.org/10.5281/zenodo.21311209
